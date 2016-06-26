@@ -1,0 +1,6 @@
+name: SimpleUHC
+main: SimpleUHC\Main
+version: 1.0.0
+api: [1.12.0, 2.0.0]
+author: Efra1in16
+
